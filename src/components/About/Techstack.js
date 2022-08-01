@@ -8,11 +8,17 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  DiMysql,
 } from "react-icons/di";
 import {
   SiPytorch,
   SiFirebase,
   SiNextdotjs,
+  SiAmazonaws,
+  SiAzuredevops,
+  SiMicrosoftazure,
+  SiPython,
+  SiC,
 } from "react-icons/si";
 
 function Techstack() {
@@ -47,6 +53,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPytorch />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAzuredevops />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftazure />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiC />
       </Col>
     </Row>
   );
