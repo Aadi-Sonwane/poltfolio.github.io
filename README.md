@@ -2,13 +2,8 @@
   Portfolio Website - v2.0<br/>
   <a href="http://aadi-sonwane.githun.io/" target="_blank">Aditya Sonwane</a>
 </h2>
-<div align="center">
-  <img alt="coffe" src="https://giphy.com/embed/m9q2JY7M4mYbm" >
-</div>
-<div class="form">
-  <a href="https://www.youtube.com/watch?v=rGtqr3kwZhQ"></a>
 
-</div>
+
 <br/>
 
 <center>
